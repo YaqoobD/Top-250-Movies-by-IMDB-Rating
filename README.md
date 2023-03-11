@@ -2,8 +2,8 @@
 
 This dataset contains information on the top 250 movies listed on the official website of IMDB, sorted by their IMDB rating. The dataset includes various features such as movie rank, movie ID, movie title, year of release, movie link, IMDB rating, number of IMDB votes, movie certification, movie duration, genre, cast and crew information, storyline, user reviews and ratings.
 
-Features
-rank - Movie Rank as per IMDB rating
+## Features
+* rank - Movie Rank as per IMDB rating
 movie_id - Movie ID
 title - Name of the Movie
 year - Year of Movie release
