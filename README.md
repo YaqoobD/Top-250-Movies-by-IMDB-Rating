@@ -1,8 +1,8 @@
-# Top-250-Movies-by-IMDB-Rating
+# Top 250 Movies by IMDb Rating 🎥⭐
 
 This dataset contains information on the top 250 movies listed on the official website of IMDB, sorted by their IMDB rating. The dataset includes various features such as movie rank, movie ID, movie title, year of release, movie link, IMDB rating, number of IMDB votes, movie certification, movie duration, genre, cast and crew information, storyline, user reviews and ratings.
 
-## Features
+## Features 🎬📊
 
 * rank - Movie Rank as per IMDB rating
 * movie_id - Movie ID
@@ -28,17 +28,17 @@ This dataset contains information on the top 250 movies listed on the official w
 * review_content - Long review
 
 
-## Inspiration
+## Inspiration 💡
 
 IMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. This dataset was created to provide a way for people to analyze and play with the top 250 movies by IMDB rating, and to perform various tasks such as understanding dataset hierarchy, data preprocessing, exploratory data analysis, data visualization, and making recommendation systems.
 
-## Possible Applications
+## Possible Applications 📈🎥
 
 Analyzing the relationship between movie ratings and various features such as genre, director, cast, and duration
 Creating a recommendation system to suggest movies based on user preferences
 Identifying trends and patterns in the movie industry
 Visualizing movie data to gain insights into the movie industry and audience preferences
 
-## Acknowledgements
+## Acknowledgements 🙏
 
 This dataset was collected from the Kaggel. Feel free to use and share this dataset for any non-commercial purposes, and please provide credit to the original source.
